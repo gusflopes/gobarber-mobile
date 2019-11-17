@@ -38,6 +38,7 @@ export default (signedIn = false) =>
                   defaultNavigationOptions: {
                     headerTransparent: true,
                     headerTintColor: '#fff',
+                    headerLayoutPreset: 'center',
                     headerLeftContainerStyle: {
                       marginLeft: 20,
                     },
